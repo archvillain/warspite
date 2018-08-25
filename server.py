@@ -47,8 +47,8 @@ def send_commands(conn):
             sys.exit()
         if len(str.encode(cmd)) > 0:
             conn.send(str.encode(cmd))
-            client_response = str(conn.recv(1024), "utf-8") #when we get the response its gonna be in bytes so we have to convert to string. buffer 1024
-            print(client_response,'\n') #'\n' or (pip3 ->)end="" dont give us a new line character at the end
+            client_response = str(conn.recv(1024), "utf-8") #レスポンスをバイト単位で受け取ると、文字列に変換する必要があります。 buffer1024
+            print(client_response,'\n') #'\n' or (pip3 ->)end="" 最後に新しい行の文字を与えないでください
 
 def main():
     socket_create()
@@ -59,4 +59,4 @@ main()
 
 #debug
 #input()
-print(sys.version) #check your version on python
+print(sys.version) #Pythonであなたのバージョンを確認する
