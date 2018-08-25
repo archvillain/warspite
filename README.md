@@ -4,7 +4,8 @@ Author: Johnjimy Som <br/>
 Date: August 24, 2018<br/>
 Version: 1.0.0 <br/> <br/>
 
-This is only used for educational purposes do not use for anything else. Otherwise you will be punished and I told you so.
+This is only used for educational purposes do not use for anything else. Otherwise you will be punished and I told you so. <br />
+これが教育目的でのみ使用され、他の目的には使用されません。 さもなければあなたは罰せられ、私はあなたにそう言った。<br />
                               
                               Information:
                               1. This is a tutorial how to reverse shell 
@@ -22,3 +23,19 @@ This is only used for educational purposes do not use for anything else. Otherwi
                               11. Watch out for the bad guys.
                               12. Memes save lives.
                               
+                              日本語：
+                              情報：
+                              1.これは、シェルを逆にする方法のチュートリアルです。
+                              2. Pythonバージョン3で作成
+                              3. Unixコマンドを推奨
+                              4. / var / www / html＃に移動します。
+                              5.指定されたコンピュータのipを見つけるipconfig。 client.pyにIPを挿入する
+                              6.端末のnano server.py
+                              5. nano（またはテキストエディタ）を使用して.pyファイルをコピー/貼り付けします。
+                              6.ナノ：crtl + x、crl + yと入力してファイルからペーストテキストをコピーします。
+                              7. python3 server.py
+                              8.マシン上でclient.pyを実行します。
+                              9. server.pyは、指定されたコンピュータ用です。
+                              10.楽しんで学校にいます。世界に貢献する。
+                              11.悪い人に注意してください。
+                              12.ミームは命を救う。
