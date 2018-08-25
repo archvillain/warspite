@@ -12,7 +12,7 @@ def socket_create():
         global port 
         global s
         host = ''
-        port = 0420 #try not to use the common port (for testing)
+        port = 8989 #try not to use the common port (for testing)
         s = socket.socket()
     except socket.error as msg:
         print("socket creation error: " +str(msg))
