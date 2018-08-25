@@ -1,7 +1,7 @@
 #author: Johnjimy Som
 #date: 2018年8月24日
 #version: 1.0.0
-#objective: これはRSh Scriptのチュートリアルです 
+#objective: ターゲットサーバのみ. お願いいたします！
 
 import socket
 import sys
