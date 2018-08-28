@@ -16,7 +16,8 @@ def socket_create():
         s = socket.socket()
     except socket.error as msg:
         print("socket creation error: " +str(msg))
-
+        print("Socket binding error: " + str(msg) + "\n" + "check if you have your port: " + str(port) + "on still lol.")
+        print("Socket binding error: " + str(msg) + "\n" + "try turning your terminal off and on.. lol")
 
 def socket_bind():
     try:
@@ -34,7 +35,7 @@ def socket_bind():
 
 def socket_accept():
     conn, address = s.accept()
-    print("Connection has been established |" + "IP: " + address[0] + " | Port: " + str(address[0]))
+    print("Connection has been established |" + "IP: " + address[0] + " | Port: " + str(address[1]))
     send_commands(conn)
     conn.close()
 
