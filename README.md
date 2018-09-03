@@ -40,4 +40,3 @@ This is only used for educational purposes do not use for anything else. Otherwi
                               12. 楽しんで学校にいます。世界に貢献する。
                               13. 悪い人に注意してください。
                               14. memesは命を救う。
-##License WTFPL
