@@ -1,6 +1,6 @@
 # warspite
 <p align="center">
-    <a href="https://raw.githubusercontent.com/archvillain/socie/master/LICENSE" alt="WTFPL License">
+    <a href="https://raw.githubusercontent.com/archvillain/warspite/master/LICENSE.md" alt="WTFPL License">
         <img src="https://img.shields.io/badge/license-WTFPL-ff69b4.svg"/></a>
     <a href="#version">
         <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
