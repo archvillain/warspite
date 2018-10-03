@@ -5,7 +5,16 @@
     <a href="#version">
         <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
             alt="version"></a>
-    <a href="https://discord.gg/HjJCwm5">
+     <a href="#status">
+        <img src="https://img.shields.io/badge/status-working-green.svg"
+            alt="status"></a>
+    <a href="#development">
+        <img src="https://img.shields.io/badge/development-on hold-FFA500.svg"
+            alt="development"></a>
+    <a href="#dependencies">
+        <img src="https://img.shields.io/badge/python-2.7, 3.6-yellowgreen.svg"
+            alt="dependencies"></a>
+    <a href="https://discord.gg/pzAfBJ">
         <img src="https://img.shields.io/discord/494990656603815950.svg?logo=discord"
             alt="chat on Discord"></a>
 </p>
