@@ -14,9 +14,6 @@
     <a href="#dependencies">
         <img src="https://img.shields.io/badge/python-2.7, 3.6-yellowgreen.svg"
             alt="dependencies"></a>
-    <a href="https://discord.gg/pzAfBJ">
-        <img src="https://img.shields.io/discord/494990656603815950.svg?logo=discord"
-            alt="chat on Discord"></a>
 </p>
 Author: Johnjimy Som <br/>
 Date: August 25, 2018<br/>
