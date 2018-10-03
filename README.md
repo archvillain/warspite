@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/development-on hold-FFA500.svg"
             alt="development"></a>
     <a href="#dependencies">
-        <img src="https://img.shields.io/badge/python-2.7, 3.6-yellowgreen.svg"
+        <img src="https://img.shields.io/badge/python-2.7, 3.6 or higher-yellowgreen.svg"
             alt="dependencies"></a>
 </p>
 Author: Johnjimy Som <br/>
