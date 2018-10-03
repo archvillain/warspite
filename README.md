@@ -1,5 +1,14 @@
 # warspite
-
+<p align="center">
+    <a href="https://raw.githubusercontent.com/archvillain/socie/master/LICENSE" alt="WTFPL License">
+        <img src="https://img.shields.io/badge/license-WTFPL-ff69b4.svg"/></a>
+    <a href="#version">
+        <img src="https://img.shields.io/badge/version-1.0-lightblue.svg"
+            alt="version"></a>
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/discord/494990656603815950.svg?logo=discord"
+            alt="chat on Discord"></a>
+</p>
 Author: Johnjimy Som <br/>
 Date: August 25, 2018<br/>
 Time: 01:13:XX AM <br/>
